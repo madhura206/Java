@@ -1,7 +1,6 @@
 package com.company;
-import java.util.Scanner;
 
-public class PracticeSet_CH2 {
+public class PracticeSet_4 {
     public static void main(String[] args) {
 //        float a = 7/4.0f * 9/2.0f; // 7/4 integer mein result dega because 7 and 4 integer hai.
 //        System.out.println(a);
