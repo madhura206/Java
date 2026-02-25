@@ -1,6 +1,11 @@
 package com.company;
 
 public class Methods2 {
+    static void tellJoke(){  // when no return through method, you use void
+        System.out.println("I invented a new word!\n" +
+                "Plagiarism!");
+    }
+
     static int logic(int x, int y){
         int z;
         if(x > y){
