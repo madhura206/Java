@@ -58,7 +58,7 @@ public class CWH43_Guess_the_Number {
 
     public static void main(String[] args) {
         Game myGame = new Game();
-        System.out.println(myGame.getId());
+//        System.out.println(myGame.getId());
 //        myGame.UserInput();
         myGame.isCorrectNumber();
 
